@@ -13,7 +13,7 @@ In the meantime, please visit our webpage at [www.cidmath.org].
 
 
 
-Here's a quick test of embedding a Tableau Public visual.
+<!-- Here's a quick test of embedding a Tableau Public visual.
 
 <div class="tableau-container" style='width: device-width; height: 1000px;' >
 <iframe  align = "center" width = "1000" height = "1000"
@@ -28,7 +28,7 @@ Here's a quick test of embedding an ArcGIS online visual.
 <div class="embed-container">
 <iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Fulton County GA Hospitals Map_test" src="//emory.maps.arcgis.com/apps/Embed/index.html?webmap=1354bcff0c4845bb8fabbac2919da2b2&extent=-85.2652,33.3791,-83.2369,34.3018&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light">
 </iframe>
-</div>
+</div> -->
 
 ----
 
