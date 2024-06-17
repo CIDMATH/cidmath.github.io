@@ -1,6 +1,0 @@
----
-title: "Wastewater Epidemiology"
----
-
-
-Advancing wastewater science, surveillance, and epidemiology for infectious diseases. 
