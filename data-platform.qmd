@@ -1,5 +1,0 @@
----
-title: "CIDMATH Data Platform"
----
-
-Browse a variety of public, commercial, partner, and center-generated data sources used by CIDMATH with applications to infectious disease analytics and modeling. Download publicly-available data. Submit data requests for access to sensitive or restricted data.
