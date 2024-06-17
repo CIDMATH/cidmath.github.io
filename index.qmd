@@ -1,0 +1,31 @@
+---
+title: "Emory CIDMATH"
+subtitle: "**Center for Infectious Disease Modeling and Analytics & Training Hub**"
+---
+
+## The Emory CIDMATH Data Website
+
+This site complements [our primary CIDMATH.org website](https://cidmath.org/) by sharing the latest data, analyses, and visualizations from CIDMATH projects.
+
+In addition, please visit the [Emory CIDMATH GitHub Organization](https://github.com/CIDMATH) to view CIDMATH project data, processing, analysis, and visualization code repositories.
+
+## CIDMATH Projects
+
+Click the **Projects** drop-down on the navigation bar or use links below to navigate to  Emory CIDMATH Project
+
+- [**CIDMATH Data Platform**](data-platform.html): Browse a variety of public, commercial, partner, and center-generated data sources used by CIDMATH with applications to infectious disease analytics and modeling. Download publicly-available data. Submit data requests for access to sensitive or restricted data.
+
+- [**Wastewater Epidemiology**](wastewater-epi.html): Advancing wastewater science, surveillance, and epidemiology for infectious diseases.
+
+- [**Social Contact Patterns**](social-contact.html): Collecting and analyzing human contact pattern data to inform infectious disease modeling. 
+
+- [**Vaccine Epidemiology**](vaccine-epi.html): Evaluating vaccine effectiveness and assessing disparities in vaccine uptake, access, and availability.
+
+- [**Disease Forecasting**](forecasting.html): AI/ML applications to disease modeling and forecasting.
+
+<br />
+<br />
+<br />
+<br />
+
+<sub>Design for this [Quarto Website](https://quarto.org/docs/websites/) referenced from [Danielle Navarro's](https://github.com/djnavarro) [Apache Arrow in R](https://arrow-user2022.netlify.app/) website.</sub>

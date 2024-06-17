@@ -1,0 +1,5 @@
+---
+title: "Social Contact Patterns"
+---
+
+Collecting and analyzing human contact pattern data to inform infectious disease modeling.
