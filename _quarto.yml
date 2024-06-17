@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Emory CIDMATH"
+  site-url: https://cidmath.github.io
+  repo-url: https://github.com/cidmath/cidmath.github.io
+  open-graph: true
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - text: CIDMATH Projects
+        menu:
+          - href: data-platform.html
+            text: "CIDMATH Data Platform"
+          - href: wastewater-epi.html
+            text: "Wastewater Epidemiology"
+          - href: social-contact.html
+            text: "Social Contact Patterns"
+          - href: vaccine-epi.html
+            text: "Vaccine Epidemiology"
+          - href: forecasting.html
+            text: "Disease Forecasting"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
