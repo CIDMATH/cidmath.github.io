@@ -12,18 +12,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: CIDMATH Projects
-        menu:
-          - href: data-platform.html
-            text: "CIDMATH Data Platform"
-          - href: wastewater-epi.html
-            text: "Wastewater Epidemiology"
-          - href: social-contact.html
-            text: "Social Contact Patterns"
-          - href: vaccine-epi.html
-            text: "Vaccine Epidemiology"
-          - href: forecasting.html
-            text: "Disease Forecasting"
+      # - text: CIDMATH Projects
+      #   menu:
+      - href: data-platform.html
+        text: "CIDMATH Data Platform"
+      - href: wastewater-epi.html
+        text: "Wastewater Epidemiology"
+      - href: social-contact.html
+        text: "Social Contact Patterns"
+      - href: vaccine-epi.html
+        text: "Vaccine Epidemiology"
+      - href: forecasting.html
+        text: "Disease Forecasting"
 
 execute:
   freeze: auto

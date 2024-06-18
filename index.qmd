@@ -11,7 +11,7 @@ In addition, please visit the [Emory CIDMATH GitHub Organization](https://github
 
 ## CIDMATH Projects
 
-Click the **Projects** drop-down on the navigation bar or use links below to navigate to  Emory CIDMATH Project
+Browse the navigation bar or use links below to navigate to Emory CIDMATH Projects.
 
 - [**CIDMATH Data Platform**](data-platform.html): Browse a variety of public, commercial, partner, and center-generated data sources used by CIDMATH with applications to infectious disease analytics and modeling. Download publicly-available data. Submit data requests for access to sensitive or restricted data.
 
