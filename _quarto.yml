@@ -12,8 +12,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      # - text: CIDMATH Projects
-      #   menu:
       - href: data-platform.html
         text: "CIDMATH Data Platform"
       - href: wastewater-epi.html
