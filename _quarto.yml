@@ -6,6 +6,8 @@ website:
   title: "Emory CIDMATH"
   site-url: https://cidmath.github.io
   repo-url: https://github.com/cidmath/cidmath.github.io
+  google-analytics: "G-LP1624XJQE"
+  cookie-consent: true
   open-graph: true
   navbar:
     background: primary
